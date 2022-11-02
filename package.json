@@ -1,5 +1,9 @@
 {
-	"name": "fcc-learn-npm-package-json",
+  "name": "fcc-learn-npm-package-json",
+  "description": "Demo package.json from FCC",
+  "keywords": ["freecodecamp", "package", "json"],
+  "license": "MIT",
+  "version": "1.2.0",
 	"author": "Jane D",
 	"dependencies": {
 		"express": "^4.14.0"
